@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malvika Sinha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data Structure, Algorithms and Web Development
+- 🌱 I’m currently learning Data Structure Algorithms and Web Development
 - 📫 How to reach me- malvikasinha1908@gmail.com
 
 
