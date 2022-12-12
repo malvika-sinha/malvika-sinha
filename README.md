@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @malvika-sinha
+- 👋 Hi, I’m Malvika Sinha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Data Structure, Algorithms and Web Development
-- 📫 How to reach me 
+- 📫 How to reach me- malvikasinha1908@gmail.com
 
-Linkedin- https://www.linkedin.com/in/malvika-sinha-she-her-6ab746207/   
-Twitter- https://twitter.com/Malvika_Sinha12
 
 <!---
 malvika-sinha/malvika-sinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Languages and Tools:
+java c css3 git html5 bootstrap linux js
