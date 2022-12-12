@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @malvika-sinha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data structures and algorithms , Web Development
+- 🌱 I’m currently learning Data Structure, Algorithms and Web Development
 - 📫 How to reach me 
+
 Linkedin- https://www.linkedin.com/in/malvika-sinha-she-her-6ab746207/
 Twitter- https://twitter.com/Malvika_Sinha12
 
