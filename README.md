@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+
 
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 
@@ -14,9 +14,8 @@
 
 <!-- - 👨‍💻 All of my projects are available at *[My Portfolio](https://subhamraoniar.com)* -->
 
-- 📫 How to reach me *surajkumar742494@gmail.com*
+- 📫 How to reach me *malvikasinha1908@gmail.com*
 
-- ⚡ Fun fact *I play games and go to the GYM very often.*
 
 ## 🚀 Languages and Tools:
 
